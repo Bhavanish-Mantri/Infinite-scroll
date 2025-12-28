@@ -1,4 +1,4 @@
-## Infinite Scroll
+# Infinite Scroll ♾️
 
 A modern and minimal blog-style web application built using **HTML, CSS, and JavaScript**.  
 The project demonstrates **infinite scrolling**, **live search filtering**, and a clean **aesthetic UI** without using any external frameworks.
@@ -7,7 +7,13 @@ This project focuses on frontend fundamentals, UI polish, and user experience.
 
 ---
 
-##  Features
+## 🔗 Live Demo
+
+👉 https://bhavanish-mantri.github.io/Infinite-scroll/
+
+---
+
+## ✨ Features
 
 - Infinite scrolling to load posts dynamically  
 - Live search to filter posts by title or content  
@@ -18,7 +24,7 @@ This project focuses on frontend fundamentals, UI polish, and user experience.
 
 ---
 
-##  Technologies Used
+## 🛠️ Technologies Used
 
 - **HTML5** – structure of the application  
 - **CSS3** – styling, layout, animations, and theme  
@@ -26,7 +32,7 @@ This project focuses on frontend fundamentals, UI polish, and user experience.
 
 ---
 
-##  Project Structure
+## 📂 Project Structure
 ```
 My-Blog/
 ├── index.html
@@ -34,10 +40,9 @@ My-Blog/
 ├── script.js
 └── README.md
 ```
-
 ---
 
-##  How It Works
+## ⚙️ How It Works
 
 - Posts are displayed dynamically using JavaScript  
 - As the user scrolls near the bottom of the page, more posts are loaded  
@@ -46,7 +51,7 @@ My-Blog/
 
 ---
 
-##  Usage
+## ▶️ Usage
 
 1. Open `index.html` in a browser  
 2. Scroll down to load more posts automatically  
@@ -54,16 +59,16 @@ My-Blog/
 
 ---
 
-##  Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Improved understanding of DOM manipulation  
 - Implemented infinite scroll logic  
 - Practiced clean UI design without frameworks  
-- Learned how to manage loading states and animations
+- Learned how to manage loading states and animations  
 
-  ---
+---
 
-## Notes
+## 📌 Notes
 
 - This project currently uses **static demo content** for displaying posts  
 - **No external API is used** in the current implementation  
@@ -72,6 +77,6 @@ My-Blog/
 
 ---
 
-## License
+## 📜 License
 
 This project is open-source and free to use for learning and personal projects.
